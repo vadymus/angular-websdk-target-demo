@@ -52,7 +52,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/angular-target-demo.git
+git clone https://github.com/vadymus/angular-target-demo.git
 cd angular-target-demo
 
 # Install dependencies
